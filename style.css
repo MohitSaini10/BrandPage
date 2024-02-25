@@ -1,0 +1,147 @@
+.container{
+  height: auto;
+  width: auto;
+}
+
+.nav{
+    
+    width: 1440px;
+    height: 72px;
+    
+
+}
+
+ul{
+    list-style-type: none;
+   display: flex;
+   
+   position: relative;
+   width: 400px;
+   left: 500px;
+   top: -90px;
+}
+
+li{
+    
+    list-style-type: none;
+    padding: 10px;
+    width: Hug (333px);
+height: Hug (24px);
+top: 24px;
+left: 553px;
+gap: 24px;
+font-size: 25px;
+
+    
+}
+
+img{
+  height: 70px;
+  width: 80px;
+top: 0px;
+left: 85px;
+position: relative;
+
+}
+
+.login-btn{
+    width: Hug (75px);
+height: Hug (31px);
+background-color:  #D01C28;
+color: white;
+height: 30px;
+width: 60px;
+padding: 6px, 16px, 6px, 16px;
+gap: 10px;
+border-radius: 0px;
+border: 0px;
+position: relative;
+left: 1200px;
+bottom: 140px;
+
+}
+
+.home{
+    
+    position: relative;
+    width: 1000px;
+height: 600px;
+top: 0px;
+left: 150px;;
+
+
+}
+h1{
+    
+font-size: 80px;
+font-weight: 700;
+line-height: 80px;
+letter-spacing: 0em;
+text-align: left;
+width: 500px;
+
+}
+p{
+    font-family: Poppins;
+font-size: 12px;
+font-weight: 2;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+width: 404px;
+height: 91px;
+position:relative;
+top: -30px;
+
+
+}
+.shop-btn{
+    background-color:  #D01C28;
+    color: white;
+    position: relative;
+    height: 30px;
+    width: 100px;
+    padding: 6px, 16px, 6px, 16px;
+    gap: 10px;
+    border-radius: 0px;
+    border: 0px;
+    left: 0px;
+    top: -500px;
+   
+gap: 50px;
+
+}
+.Category-btn{
+    position: relative;
+    height: 30px;
+    width: 100px;
+    left: 20px;
+    top: -500px;
+    border: 10px;
+    border-radius: 0px;
+    padding: 6px, 16px, 6px, 16px;
+   
+gap: 50px;
+
+}
+.shoe{
+    width: 530px;
+    height: 487.06px;
+    position: relative;
+    left: 300px;
+    top:-400px;
+}
+.flipcart{
+    position: relative;
+    left: -788px;
+    top: -420px;
+    width: 40px;
+    height: 40px;
+}
+.amazon{
+    position: relative;
+    left: -680px;
+    top: -420px;
+    width: 40px;
+    height: 35px;
+}
